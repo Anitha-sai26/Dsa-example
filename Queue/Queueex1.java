@@ -17,7 +17,5 @@ public class Queueex1 {
 
         pq.add(5);
         System.out.println("Priority Queue: " + pq);
-
-
-    }
+ }
 }
