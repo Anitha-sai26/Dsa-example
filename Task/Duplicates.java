@@ -1,7 +1,5 @@
 package Task;
 
-
-
 import java.util.Arrays;
  
 public class Duplicates {
